@@ -1,2 +1,2 @@
 # unix-utilities
-Implementations of cat, grep, etc.
+"Implemented `cat`, `grep`, and other Unix utilities to refamiliarize myself with C before OSTEP."
